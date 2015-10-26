@@ -1,3 +1,5 @@
 environment {
   MONGO_URL = "address point"
 }
+
+template "https://github.com/normajs/norma-template-test.git" {}
